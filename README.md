@@ -1,6 +1,6 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Mohammed shafi ur rehaman
 
-I’m a final-year **Engineering Student** and **Software Engineering Intern** who’s passionate about building modern web applications. I specialize in the **MERN stack**, but I’ve also been leveling up with **TypeScript**, **Docker**, and **CI/CD pipelines** to develop production-ready systems.
+I’m a third-year **Engineering Student** and **Software Engineering Intern** who’s passionate about building modern web applications. I specialize in the **MERN stack**, 
 
 ---
 
